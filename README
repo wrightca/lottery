@@ -1,0 +1,13 @@
+Lottery frequency program - 20170316
+
+This script scrapes the Arkansas lottery webpage for both Natural State Lottery and Lucky for Life past drawings 
+and calculates the frequency of overall values as well as individual place values.
+
+To Do:
+- Add PowerBall and Mega Millions
+
+Consider:
+- Find a better frequency calculator (NumPy?)
+- Web-based
+
+
